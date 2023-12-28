@@ -1,10 +1,41 @@
-*{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
-.titlenavbar{ display: inline;}
-#top{font-size: 32px; font-weight: 700; padding-right: 1050px;}
-h1{text-align: center; color: black; padding-top: 50px;}
-h2{text-align: center; color: rgb(88, 101, 114); padding-bottom: 20px;}
-p{font-size: 24px; font-weight: 300px; padding-left: 70px; padding-right: 70px; color: lightslategray;}
-footer{background-color: rgba(255, 0, 157, 0.312);}
-#gototop{float: right;}
-iframe{padding-left: 460px;}
-body{background-color:rgb(230, 230, 250);}
+* {
+  font-family: "Roboto", "Franklin Gothic Medium", "Arial Narrow", Arial,
+    sans-serif;
+}
+.titlenavbar {
+  display: inline;
+}
+#top {
+  font-size: 32px;
+  font-weight: 700;
+  padding-right: 1050px;
+}
+h1 {
+  text-align: center;
+  color: black;
+  padding-top: 50px;
+}
+h2 {
+  text-align: center;
+  color: rgb(88, 101, 114);
+  padding-bottom: 20px;
+}
+p {
+  font-size: 24px;
+  font-weight: 300px;
+  padding-left: 70px;
+  padding-right: 70px;
+  color: lightslategray;
+}
+footer {
+  background-color: rgba(255, 0, 157, 0.312);
+}
+#gototop {
+  float: right;
+}
+iframe {
+  padding-left: 460px;
+}
+body {
+  background-color: rgb(230, 230, 250);
+}
